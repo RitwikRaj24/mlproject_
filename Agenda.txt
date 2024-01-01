@@ -18,3 +18,7 @@ Agenda Day 1
 
 2. Src folder and build the package
 
+Agenda Day 2 
+
+Establishing a Project Structure , Logging and Exception Handling 
+
